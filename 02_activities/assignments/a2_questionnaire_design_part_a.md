@@ -16,30 +16,95 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to understand the relationship between age and music taste, specifically focusing on how age influences perceptions of popular music.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: the individuals aged 18 and older, living in Canada
+Sampling frame: students, faculty, and staff at the University of Toronto, as well as members of the broader community who are reachable through social media platforms, music forums, and local community centers
+Sampling units: the individual respondents within the target population who meet the age criteria and have access to the survey
+Observational units:  the individual respondents who provide their data on music taste, age, and related perceptions
+Sampling strategy: a stratified random sampling strategy will be used to ensure that different age groups are proportionately represented
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your age?
+ - 18-25
+ - 26-35
+ - 36-45
+ - 46-55
+ - 56-65
+ - 66 and above
+
+2. How would you describe your overall interest in music?
+ - Very Interested
+ - Interested
+ - Neutral
+ - Not Very Interested
+ - Not Interested At All
+
+3. What are your top three favorite music genres? (Select up to three)
+ - Pop
+ - Rock
+ - Hip-Hop/Rap
+ - Classical
+ - Jazz
+ - Country
+ - Electronic
+ - Other (please specify)
+
+4. How frequently do you listen to music?
+ - Daily
+ - Several times a week
+ - Weekly
+ - Monthly
+ - Rarely/Never
+
+5. From which decades do you enjoy music the most? (Select all that apply)
+ - 1960s
+ - 1970s
+ - 1980s
+ - 1990s
+ - 2000s
+ - 2010-2020
+- New music (2020-present)
+
+6. How would you describe the changes in your music preferences over the years?
+ - Changes frequently
+ - Changes infrequently
+ - Changes from time to time
+ - Not sure, I haven't noticed the changes in music preferences over the years
+
+7. Do your music preferences depend on your current life circumstances?
+ - Yes, my music preferences change significantly based on my current life circumstances (e.g., job changes, relationships, stress levels, vacations).
+ - No, my music preferences remain relatively stable regardless of my life circumstances.
+ - Not sure, I haven't noticed a clear connection between my life circumstances and my music preferences.
+
+8. How has technology impacted your music tastes?
+ - Significantly: Technology has introduced me to new genres and artists I wouldn't have discovered otherwise.
+ - Moderately: Technology has influenced my music tastes somewhat, but not dramatically.
+ - Slightly: Technology has had a minimal impact on my music tastes.
+ - Not at all: My music tastes have not been affected by technological advancements.
+
+9. Do you feel nostalgic for music that you consider comfortable or familiar?
+ - Yes, I often feel nostalgic for music that I used to listen to during specific periods of my life.
+ - No, I do not feel particularly nostalgic for familiar music.
+ - Not sure, I haven't noticed a strong sense of nostalgia for familiar music.
+
+10. What methods do you use to find new music? (Select all that apply)
+ - I often discover new music through my friends' suggestions.
+ - Streaming service playlists (e.g., Spotify, Apple Music)
+ - I discover new music by listening to the radio.
+ - I find new music through social media platforms (e.g., Instagram, TikTok, Twitter).
+ - I explore new music through music blogs and websites.
+ - Attending live concerts introduces me to new music.
+ Other (please specify): 
 ```
 
 ## Rubric
