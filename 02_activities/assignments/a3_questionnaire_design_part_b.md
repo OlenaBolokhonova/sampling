@@ -60,12 +60,24 @@
     c. Specificity of Friends' Suggestions: The original option "I often discover new music through my friends' suggestions" is too specific.
     
     - Reasoning: Generalized to "Recommendations from others" to include suggestions from a broader range of sources, not just friends.
+
+    Link on the updated survey: https://github.com/OlenaBolokhonova/sampling/blob/questionnaire-b/02_activities/assignments/a2_questionnaire_design_part_a.md
+
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    No, the purpose of the survey could not have been fully fulfilled through an observational study.
+    - An observational study would not provide direct access to personal preferences, reasons behind music choices, or subjective experiences. 
+    
+    - Surveys allow respondents to share self-reported data. 
+    
+    - Detailed insights into specific methods of music discovery, can only be accurately captured through direct questioning. 
+    
+    - Observational studies are logistically complex and resource-intensive, making it challenging to gather data from a large and diverse sample. 
+    
+    - Sensitive information, such as the impact of personal life circumstances on music preferences, can be confidentially obtained through surveys but not through observation. 
     ```
 
 ## Why am I doing this assignment?
